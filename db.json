@@ -54,6 +54,12 @@
       "id": 11,
       "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
       "author": "Ann Richards"
+    },
+    {
+      "quote": "ALLAH'S PLAN",
+      "author": "FARMAJO",
+      "likes": [],
+      "id": 12
     }
   ],
   "likes": [
@@ -66,6 +72,31 @@
       "quoteId": 10,
       "id": 2,
       "createdAt": 1558524358
+    },
+    {
+      "quoteId": 10,
+      "createdAt": 1688061606009,
+      "id": 3
+    },
+    {
+      "quoteId": 12,
+      "createdAt": 1688061619120,
+      "id": 4
+    },
+    {
+      "quoteId": 12,
+      "createdAt": 1688061622095,
+      "id": 5
+    },
+    {
+      "quoteId": 12,
+      "createdAt": 1688061623772,
+      "id": 6
+    },
+    {
+      "quoteId": 12,
+      "createdAt": 1688061625379,
+      "id": 7
     }
   ]
 }
